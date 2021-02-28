@@ -4,8 +4,7 @@ using System.Text;
 
 namespace CRTP.DataModel
 {
-    public class StepOneModel
+    public class FlowContextModel
     {
-        public string FieldOne { get; set; }
     }
 }

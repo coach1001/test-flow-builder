@@ -1,0 +1,4 @@
+C:\Users\tinashe.dumbuza\Desktop\Projects\test-flow-builder\CRTP\bin\Debug\netcoreapp3.1\CRTP.exe
+C:\Users\tinashe.dumbuza\Desktop\Projects\test-flow-builder\CRTP\obj\Debug\netcoreapp3.1\CRTP.csprojAssemblyReference.cache
+C:\Users\tinashe.dumbuza\Desktop\Projects\test-flow-builder\CRTP\obj\Debug\netcoreapp3.1\CRTP.AssemblyInfoInputs.cache
+C:\Users\tinashe.dumbuza\Desktop\Projects\test-flow-builder\CRTP\obj\Debug\netcoreapp3.1\CRTP.AssemblyInfo.cs
