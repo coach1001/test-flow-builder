@@ -6,5 +6,6 @@ namespace CRTP.DataModel
 {
     public class StepTwoModel
     {
+        public string FieldOne { get; set; }
     }
 }
